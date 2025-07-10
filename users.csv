@@ -1,0 +1,3 @@
+username,password,expiration
+alice,test123,2025-10-15
+bob,securepass,2025-10-20
